@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Weather-App?style=flat-square" alt="Weather-App"/>
 </a>
   </p>
-  
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Weather-App)](https://github.com/ashish2030/Weather-App/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Weather-App)](https://github.com/ashish2030/Weather-App/archive/master.zip)
+ 
 https://user-images.githubusercontent.com/61516051/118346664-bb5c3b00-b55a-11eb-888d-fb203764847c.mp4
 
 <p align="center">
