@@ -4,7 +4,7 @@
 <a href="https://github.com/ashish2030/Weather-App/fork" target="blank">
 
 <p align="center">
-  <a href="https://github.com/ashish2030/Weather-App/forks" target="blank">
+  <a href="https://github.com/ashish2030/Weather-App/fork" target="blank">
   <img src="https://img.shields.io/github/forks/ashish2030/Weather-App?style=flat-square" alt="Weather-App forks"/>
 </a>
 <a href="https://github.com/ashish2030/Weather-App/stargazers" target="blank">
