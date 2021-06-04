@@ -1,5 +1,6 @@
 <h1 align="center">𝐖𝐞𝐚𝐭𝐡𝐞𝐫-𝐀𝐩𝐩</h1>
-<p align="center">:octocat:🌟ᴛʜɪꜱ ɪꜱ ᴀ ᴡᴇᴀᴛʜᴇʀ ᴀᴘᴘ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴍᴀᴅᴇ ʙʏ ᴍᴇ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʟɪᴠᴇ ᴡᴇᴀᴛʜᴇʀ ʀᴇᴘᴏʀᴛꜱ💻 🎯 🚀  <p><br>
+<p align="center">:octocat:🌟ᴛʜɪꜱ ɪꜱ ᴀ ᴡᴇᴀᴛʜᴇʀ ᴀᴘᴘ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴍᴀᴅᴇ ʙʏ ᴍᴇ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʟɪᴠᴇ ᴡᴇᴀᴛʜᴇʀ ʀᴇᴘᴏʀᴛꜱ
+  💻 🎯 🚀  <p><br>
 <a href="https://github.com/ashish2030/Weather-App-Using-Javascipt/fork" target="blank">
 
 <p align="center">
